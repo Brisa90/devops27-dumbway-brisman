@@ -4,6 +4,7 @@
 <img width="976" height="509" alt="Termijnal windos" src="https://github.com/user-attachments/assets/1c6ecb23-c75f-4218-9a31-9d3280884033" />
 
 ## Mengakses server dengan Keygen Open SSH
+masuk menggukana perintah command promt windows "ssh -i lokasi-file-keygen 'user@alamat-server'"
 <img width="952" height="505" alt="1" src="https://github.com/user-attachments/assets/e636361e-91f7-451d-acbe-f7958b809a44" />
 
 ## Buat step by step penggunaan text manipulation! (grep, sed, cat, echo)
