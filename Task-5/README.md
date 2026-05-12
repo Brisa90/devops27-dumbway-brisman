@@ -52,3 +52,6 @@ func main() {
 - jalankan program dengan perintah ```go run main.go``` output akan mengeluarkan kata "Golang geming!"
 <img width="439" height="361" alt="10" src="https://github.com/user-attachments/assets/919f593b-1bb7-41b1-9568-0a878bce829f" />
 
+## Status UFW dalam keadaan aktif
+<img width="488" height="343" alt="7" src="https://github.com/user-attachments/assets/7c7aff12-e166-45fe-8786-4b65afd7a253" />
+
