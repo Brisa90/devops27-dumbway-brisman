@@ -1,5 +1,8 @@
 # Task 4 : Version Control System with GIT
 
+## Penujelasan Github
+GitHub adalah sebuah platform berbasis web yang digunakan untuk mengelola proyek perangkat lunak dengan sistem kontrol versi Git. Fungsinya bukan hanya menyimpan kode, tetapi juga memfasilitasi kolaborasi antar developer.
+
 ## mengcopy repositori tugas dumbways ke linux
 - menggunakan perintah git clone https://github.com/Brisa90/devops27-dumbway-brisman.git
 
