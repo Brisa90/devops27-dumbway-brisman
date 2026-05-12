@@ -1,4 +1,4 @@
-# Task 2 : Version Control System with GIT
+# Task 4 : Version Control System with GIT
 
 ## mengcopy repositori tugas dumbways ke linux
 - menggunakan perintah git clone https://github.com/Brisa90/devops27-dumbway-brisman.git
