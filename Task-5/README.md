@@ -6,11 +6,11 @@
 -  Berjalan di port 3000
 -  Menggunakan NodeJS 10 & 12
 ## Jawaban
-- install node 12 dan 10, dengan perintah ```nvm install 12``` & ```nvm install 10```, mengubah versi node masukan perintah "node current 10/12"
+- install node 12 dan 10, dengan perintah ```nvm install 12``` & ```nvm install 10```, mengubah versi node masukan perintah ```node current 12``` atau ```node current 10```
 <img width="448" height="159" alt="2" src="https://github.com/user-attachments/assets/2abce852-6ae1-4b6d-8d8a-3b2406ab6f8c" /><img width="982" height="332" alt="3" src="https://github.com/user-attachments/assets/2f1ad30c-2e73-4678-b006-1092193d5c3e" />
 - Melakukan kloning aplikasi dari github dengan perintah ```git clone https://github.com/dumbwaysdev/wayshub-frontend```
 - melakukan instalasi npm pada direktori yang diunduh dengan perintah ```npm install```
-- jalankan aplikasi dengan perintah npm start, dan buka browser dengan url ```localhost:3000```
+- jalankan aplikasi dengan perintah ```npm start```, dan buka browser dengan url ```localhost:3000```
 <img width="1324" height="715" alt="1" src="https://github.com/user-attachments/assets/fa8da2be-5532-4697-95ba-1bba0f3c9ef6" />
 
 
